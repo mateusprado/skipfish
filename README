@@ -2,16 +2,6 @@
 skipfish - web application security scanner
 ===========================================
 
-  http://code.google.com/p/skipfish/
-
-  * Written and maintained by:
-
-      Michal Zalewski <lcamtuf@google.com>
-      Niels Heinen <heinenn@google.com>
-      Sebastian Roschke <s.roschke@googlemail.com>
-
-  * Copyright 2009 - 2012 Google Inc, rights reserved.
-
   * Released under terms and conditions of the Apache License, version 2.0.
 
 --------------------
@@ -577,13 +567,3 @@ $ ./skipfish [...previous options...] 2>logfile.txt
 $ gdb --batch -ex back ./skipfish core
 
 ...and be sure to send the author the output of that last command as well.
-
-------------------------
-10. Credits and feedback
-------------------------
-
-Skipfish is made possible thanks to the contributions of, and valuable
-feedback from, Google's information security engineering team.
-
-If you have any bug reports, questions, suggestions, or concerns regarding
-the application, the primary author can be reached at lcamtuf@google.com.
